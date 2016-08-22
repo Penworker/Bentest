@@ -13,8 +13,8 @@ Module.register("compliments",{
 	defaults: {
 		compliments: {
 			morning: [
-				"Good morning, handsome!",
-				"Enjoy your day!",
+				"Hallo Bennet 123!",
+				"So sieht es aus",
 				"How was your sleep?"
 			],
 			afternoon: [
@@ -23,9 +23,9 @@ Module.register("compliments",{
 				"Looking good today!"
 			],
 			evening: [
-				"Wow, you look hot!",
-				"You look nice!",
-				"Hi, sexy!"
+				"Du siehst Heiss aus",
+				"Schön schön!",
+				"Sehr sex bist du!"
 			]
 		},
 		updateInterval: 30000,
